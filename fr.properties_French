@@ -1,0 +1,185 @@
+﻿#TITLE|[COMPLIMENT]>[INDEX]=VALUE
+ADD=Ajouter
+ADD_ALL=Ajouter tout
+ADD_ALL_SHORT=Ajouter tout
+REMOVE=Enlever
+REMOVE_ALL=Enlever tout
+REMOVE_ALL_SHORT=Enlever tout
+AUTO_NAME_ALL=Nom automatique pour tout
+PREFIX=Préfixe
+FILTER=Filtre
+DISTRICT=District
+STATION_DEPOT_NAME=Nom de Station/Dépôt
+PREFIXES_SERVED=Préfixes Servis
+ADD_REMOVE=Ajouter/Enlever
+NEAR_LINES=Près des lignes
+PREFIXES_SPAWNED_DEPOT=Préfixes engendrés dans ce Dépôt
+SHOW_EXTRA_INFO=SAfficher les infos supplémentaires
+SHOW_LINE_INTEGRATION=Afficher les intégrations de ligne
+SHOW_LINE_INTEGRATION_SHORT=Aff. intég. ligne
+SET_FIXED_VEHICLE_NUMBER_LINE=Définir des véhicules dans cette ligne (0 pour auto)
+USE_AUTO_NAME=Utiliser le nom automatique
+PICK_COLOR_FROM_PALETTE=Choisissez la couleur de la palette
+PICK_COLOR_FROM_PALETTE_TOOLTIP=Redéfinir la couleur de la ligne en utilisant les paramètres de la palette; Numéro de ligne basé
+ADD_PREFIX_TOOLTIP=Ajoutez ce préfixe à la lste des préfixes desservis de ce Dépôt.
+REMOVE_PREFIX_TOOLTIP=Supprimez ce préfixe de la liste des préfixes desservis de ce Dépôt.
+ADD_ALL_PREFIX_TOOLTIP=Ajoutez tous les préfixes à ce Dépôt.
+REMOVE_ALL_PREFIX_TOOLTIP=Supprimez tous les préfixes de ce Dépôt.
+AUTO_NAME_ALL_TOOLTIP=Utilisez le nom automatiquement pour toutes les lignes.
+AUTO_COLOR_ALL_TOOLTIP=Choississez une couleur dans la palette pour chaque ligne.
+DAY_FILTER_TOOLTIP=Cliquez pour afficher/masquer seulement les lignes de jour.
+DAY_NIGHT_FILTER_TOOLTIP=Cliquez pour afficher/masquer les lignes 24h.
+NIGHT_FILTER_TOOLTIP=Cliquez pour afficher/masquer seulement les lignes de nuit.
+DISABLED_LINES_FILTER_TOOLTIP=Cliquer pour afficher/masquer les lignes désactiviées et brisées.
+AUTO_NAME_SIMPLE_BUTTON_TOOLTIP=Nom Auto : Utiliser le nom automatique dans cette ligne
+AUTO_COLOR_SIMPLE_BUTTON_TOOLTIP=Couleur Auto : Choississez une couleur dans la palette pour cette ligne
+RESIDENTS_WAITING=Résidents en attente
+TOURISTS_WAITING=Touristes en attente
+
+IPT_COMP_MODE_DESC=Mode compatible avec IPT (Nécéssite un redémarrage)
+OVERRIDE_DEFAULT_LINE_INFO=Remplacer le panneau d'informations sur les lignes par défaut
+SHOW_CONFIG_FOR=Afficher les configurations pour
+CONFIGS_FOR={0} Configs
+VEHICLE|Ship=Water Véhicule
+VEHICLE|Airplane=Avion
+SEPARATOR=Séparateur
+SUFFIX=Suffixe
+IDENTIFIER_NON_PREFIXED=Identifiant (sans préfixe)
+PALETTE_PREFIXED=Palette pour préfixe
+PALETTE_UNPREFIXED=Palette pour sans préfixe
+LEADING_ZEROS_SUFFIX=Zéro en tête sur le suffixe
+INVERT_PREFIX_SUFFIX_ORDER=Inverser l'ordre des préfixes/suffixes (permet de mettre des lettres après un grand nombre. Ex: 637A)
+RANDOM_ON_PALETTE_OVERFLOW=Couleurs aléatoires de la palette
+AUTO_COLOR_BASED_ON_PREFIX=Couleur Automatique basée sur le préfixe pour les lignes préfixées
+PALETTE=Palette
+
+NEAR_LINES_CONFIG=Configuration des lignes proches
+NEAR_LINES_SHOW_BUS=Afficher les lignes de bus
+NEAR_LINES_SHOW_TRAM=Afficher les lignes de tramways (Seulement pour Snowfall)
+NEAR_LINES_SHOW_METRO=Afficher les lignes des métropolitains
+NEAR_LINES_SHOW_TRAIN=Afficher les lignes de trains
+NEAR_LINES_SHOW_SHIP=Afficher les lignes maritimes
+NEAR_LINES_SHOW_PLANE=Afficher les lignes aériennes
+NEAR_LINES_SHOW_TAXI=Afficher les stations de taxis (Seulement pour After Dark)
+
+AUTOMATION_CONFIG=Automatisaton
+AUTO_COLOR_ENABLED=Couleur automatique lors de la création de la ligne activée
+AUTO_NAME_ENABLED=Nom automatique sur la création de la ligne activée
+USE_CIRCULAR_AUTO_NAME=Utiliser un mot "Circulaire" sur les lignes de district unique
+ADD_LINE_NUMBER_AUTO_NAME=Mettez l'identifiant de la ligne entre crochets avant le nom généré automatiquement
+
+AUTO_NAME_SETTINGS_PUBLIC_TRANSPORT=Paramètres automatique du nom - Bâtiments de Transport Public
+AUTO_NAME_SETTINGS_PUBLIC_TRANSPORT_DESC=Autoriser les noms des lignes en tutilisant le nom des bâtiments:\n(Noms de District sont toujours en dernier choix)
+PREFIX_OPTIONAL=Préfixe (option)
+AUTO_NAME_SETTINGS_OTHER=Paramêtres de nom automatique - Autres bâtiments
+
+CITY_ASSETS_SELECTION=Selection des biens de la ville
+DETAILS=Détails
+TRANSPORT_SYSTEM=Système de Transport
+PREFIX_NAME=Nom du Préfixe
+DEFAULT_ASSETS=Actifs par défault
+ASSETS_FOR_PREFIX=Actifs pour ce préfixe
+RELOAD=Recharger
+PLEASE_LOAD_CITY_FOR_ASSETS=Veuillez charger une ville pour avoir accès aux biens actifs !
+NEAR_LINES_SHOW_IN_SERVICES_BUILDINGS=Afficher les lignes proche dans le panneau d'informations sur le monde des bâtiments des services publics
+NEAR_LINES_SHOW_IN_ZONED_BUILDINGS=Afficher les lignes proches dans le panneau d'informations sur le monde des bâtiments zonés
+
+CUSTOM_PALETTE_CONFIG=Configuration des palettes personnalisées
+DELETE=Effacer
+PALETTE_SELECT=Sélectionner une palette
+PALETTE_NAME=Nom de la palette
+COLORS=Couleurs
+
+BETAS_EXTRA_INFO=Bétas & Informations Extra
+DRAW_CITY_MAP=Dessiner un plan de la ville ! (alpha)
+DEBUG_MODE=Mode déboggage
+RELEASE_NOTES=Notes de la version pour cette réalisation
+
+MODO_NOMENCLATURA|Numero=Nombre
+MODO_NOMENCLATURA|LatinoMinusculo=Minuscule Latin
+MODO_NOMENCLATURA|LatinoMaiusculo=Majuscule Latin
+MODO_NOMENCLATURA|GregoMinusculo=Minuscule Grec
+MODO_NOMENCLATURA|GregoMaiusculo=Majuscule Grec
+MODO_NOMENCLATURA|CirilicoMinusculo=Minuscule Cyrilic
+MODO_NOMENCLATURA|CirilicoMaiusculo=Majuscule Cyrilic
+MODO_NOMENCLATURA|Nenhum=Nom
+MODO_NOMENCLATURA|LatinoMinusculoNumero=Nombre + Minuscule Latin
+MODO_NOMENCLATURA|LatinoMaiusculoNumero=Nombre + Majuscule Latin
+MODO_NOMENCLATURA|GregoMinusculoNumero=Nombre + Minuscule Grec
+MODO_NOMENCLATURA|GregoMaiusculoNumero=Nombre + Majuscule Grec
+MODO_NOMENCLATURA|CirilicoMinusculoNumero=Nombre + Minuscule Cyrilic
+MODO_NOMENCLATURA|CirilicoMaiusculoNumero=Nombre + Majuscule Cyrilic
+
+SEPARATOR|Nenhum=<AUCUN>
+SEPARATOR|Hifen=-
+SEPARATOR|Ponto=.
+SEPARATOR|Barra=/
+SEPARATOR|Espaco=<ESPACE>
+SEPARATOR|QuebraLinha=<Nouvelle Ligne>
+
+RANDOM=Au hasard
+
+UNPREFIXED=Sans préfixe
+REGIONAL=Régional
+GENERATED_AUTO_NAME=Nom généré automatiquement
+TRANSPORT_LINE_DISABLED=Désactivé
+LENGHT_AND_STOPS={0:N2}m Long - {1} Arrêts
+DISTRICT_NONE=<Pas de District>
+
+PUBLICTRANSPORT_WATERLINES=Lignes Maritimes
+PUBLICTRANSPORT_AIRPLANELINES=Lignes Aériennes
+
+PUBLICTRANSPORT_HANGARS=Hangars
+PUBLICTRANSPORT_HARBORS=Ports
+PUBLICTRANSPORT_TRAINDEPOTS=Dépôt de Train
+PUBLICTRANSPORT_METRODEPOTS=Dépôts du Métropolitain
+PUBLICTRANSPORT_TRAMDEPOTS=Dépôt du Tramway
+PUBLICTRANSPORT_BUSDEPOTS=Dépôts de bus
+
+PUBLICTRANSPORT_OF_DEPOT|PLANE_CONFIG=Hangar
+PUBLICTRANSPORT_OF_DEPOT|SHIP_CONFIG=Port
+PUBLICTRANSPORT_OF_DEPOT|TRAIN_CONFIG=Gare
+PUBLICTRANSPORT_OF_DEPOT|METRO_CONFIG=Station
+PUBLICTRANSPORT_OF_DEPOT|TRAM_CONFIG=Dépôt
+PUBLICTRANSPORT_OF_DEPOT|BUS_CONFIG=Dépôt
+AUTO_COLOR_ALL=Couleur automatique pour tous
+PREFIX_FILTER=Filtre de préfixe
+DEPOT_NAME_PATTERN={0} Nom
+ALL=Tous
+GOTO_DEPOT_PREFIX_EDIT=Aller à l'écran de sélection du préfixe de dépôt
+UNPREFIXED_SHORT=<U>
+REGIONAL_SHORT=<R>
+BUDGET_MULTIPLIER_LABEL=Multiplicateur du budget par
+CODE_SHORT=Code
+LINE_BUDGET_EXPLAIN=Budget pour {0}: {2:0%}\nBudget multiplier pour les lignes de préfixe "{1}": {3:0.00}\nBudget effectif: {2:0%} x {3:0.00} = {4:0%}
+LINE_EFFECTIVE_BUDGET=Budget effectif
+
+TICKET_PRICE_LABEL=Prix du Ticket (en centimes)
+REMOVE_UNWANTED_TOOLTIP=Supprimer tous les modèles non autorisés pour le préfixe dans chaque ligne
+
+
+PUBLICTRANSPORT_LINECOUNT>0=Nombre de lignes aériennes
+PUBLICTRANSPORT_LINECOUNT>1=Nombre de lignes maritimes
+PUBLICTRANSPORT_LINECOUNT>2=Nombre de ligne de train de voyageurs
+PUBLICTRANSPORT_LINECOUNT>3=Nombre de lignes de métropolitain
+PUBLICTRANSPORT_LINECOUNT>4=Nombre de lignes de tramway
+PUBLICTRANSPORT_LINECOUNT>5=Nombre de lignes de bus
+
+PREFIX_BUDGET=Préfixe du budget
+USE_SINGLE_BUDGET=Utiliser un budget unique
+USE_PER_PERIOD_BUDGET=Utiliser un budget par période
+BUDGET_MULTIPLIER_PERIOD_LABEL>0=1h-4h
+BUDGET_MULTIPLIER_PERIOD_LABEL>1=4h-7h
+BUDGET_MULTIPLIER_PERIOD_LABEL>2=7h-10h
+BUDGET_MULTIPLIER_PERIOD_LABEL>3=10h-13h
+BUDGET_MULTIPLIER_PERIOD_LABEL>4=13h-16h
+BUDGET_MULTIPLIER_PERIOD_LABEL>5=16h-19h
+BUDGET_MULTIPLIER_PERIOD_LABEL>6=19h-22h
+BUDGET_MULTIPLIER_PERIOD_LABEL>7=22h-1h
+
+MOD_LANG=Mode du Language
+GAME_DEFAULT_LANGUAGE=Identique à celui du jeu
+LANG|ko=Koréen
+LANG|fr=Français
+LANG|pt=Portuguais
+LANG|en=Englais
